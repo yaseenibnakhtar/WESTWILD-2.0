@@ -9,7 +9,7 @@ This repository contains a detailed walkthrough of the "Westwild: 2" boot2root c
 ## Challenge Level: Intermediate
 
 - **Author:** Hashim Alsharef
-- **Target IP:** 192.168.1.105 (example, can vary)
+- **Target IP:** 192.168.1.15 (example, can vary)
 - **Tools Used:**
   - Netdiscover
   - Nmap
